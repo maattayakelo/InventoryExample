@@ -14,8 +14,6 @@ int main()
 	mylist.addInventoryItem();
 	mylist.displayList();
 
-
-
     return 0;
 }
 
