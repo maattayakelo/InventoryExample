@@ -13,7 +13,7 @@ int main()
 	mylist.addInventoryItem();
 	mylist.addInventoryItem();
 	mylist.displayList();
-
     return 0;
+
 }
 
